@@ -11,10 +11,10 @@
      ---------------------------------------------------------- */
   const CONFIG = {
     // Google Apps Script Web App URL (deploy as "Anyone" with "Execute as Me")
-    APPS_SCRIPT_URL: 'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec',
+    APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbyL-mrNRNW0lyHZ2809y-B_NcZn6Pd1F8_9hRAkzsW_TJkkz1BiENF_S413uSD1qlux/exec',
 
     // WhatsApp group invite URL (redirect target on the final screen)
-    WHATSAPP_GROUP_URL: 'https://chat.whatsapp.com/YOUR_GROUP_INVITE',
+    WHATSAPP_GROUP_URL: 'https://chat.whatsapp.com/Bnf9w8oYwtqJjat5zN02f8',
 
     // Event details shown on the final screen
     EVENT_DATE: '23 de junio',
